@@ -1,0 +1,8 @@
+
+apiTitle: API Docs Demo
+splitSpec: true
+codeSamples: false
+swaggerUI: false
+travis: true
+repo: michaelfahmy/api-docs-demo
+oasVersion: 3.0.0
